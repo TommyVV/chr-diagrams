@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T14:00:57.246Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="g7hcF1u1WQI6pY-0Yhbk" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T14:04:43.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yT_S0h6i9wuWDvhXkfOA" version="22.1.21" type="github">
   <diagram name="Page-1" id="wsTwDKJttdFrNlq-yoNL">
-    <mxGraphModel dx="698" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="698" dy="1583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,9 +33,6 @@
           <mxGeometry x="0.0733" y="-3" relative="1" as="geometry">
             <mxPoint x="12" y="3" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="fOkP95LbUyY7o67YRdoy-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fOkP95LbUyY7o67YRdoy-8" target="fOkP95LbUyY7o67YRdoy-29">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fOkP95LbUyY7o67YRdoy-8" value="Azure Blob" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" vertex="1" parent="1">
           <mxGeometry x="393.59" y="110" width="94.44" height="85" as="geometry" />
@@ -71,22 +68,25 @@
         <mxCell id="fOkP95LbUyY7o67YRdoy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="fOkP95LbUyY7o67YRdoy-16" target="fOkP95LbUyY7o67YRdoy-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fOkP95LbUyY7o67YRdoy-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fOkP95LbUyY7o67YRdoy-19" target="fOkP95LbUyY7o67YRdoy-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="fOkP95LbUyY7o67YRdoy-19" value="Azure &quot;App&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="122.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fOkP95LbUyY7o67YRdoy-28" value="terraform repo" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
-          <mxGeometry x="205" width="90" height="90" as="geometry" />
+        <mxCell id="fOkP95LbUyY7o67YRdoy-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fOkP95LbUyY7o67YRdoy-34" target="fOkP95LbUyY7o67YRdoy-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fOkP95LbUyY7o67YRdoy-29" value="terraform repo" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
-          <mxGeometry x="560" y="107.5" width="90" height="90" as="geometry" />
+        <mxCell id="fOkP95LbUyY7o67YRdoy-34" value="Service account repo" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" vertex="1" parent="1">
+          <mxGeometry x="580" y="115" width="75" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="fOkP95LbUyY7o67YRdoy-32" value="Developer policy&lt;br&gt;K8S policy" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
-          <mxGeometry x="157" y="613" width="110" height="110" as="geometry" />
+        <mxCell id="fOkP95LbUyY7o67YRdoy-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fOkP95LbUyY7o67YRdoy-36" target="fOkP95LbUyY7o67YRdoy-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fOkP95LbUyY7o67YRdoy-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.457;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fOkP95LbUyY7o67YRdoy-3" target="fOkP95LbUyY7o67YRdoy-32">
+        <mxCell id="fOkP95LbUyY7o67YRdoy-36" value="Service principal repo" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="-80" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="fOkP95LbUyY7o67YRdoy-39" value="Vault repo" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" vertex="1" parent="1">
+          <mxGeometry x="169.5" y="630" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="fOkP95LbUyY7o67YRdoy-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fOkP95LbUyY7o67YRdoy-39" target="fOkP95LbUyY7o67YRdoy-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
