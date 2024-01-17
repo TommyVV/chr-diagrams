@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T14:22:32.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="NnC1LzJV5GYRklY22fNr" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T14:22:40.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tVuG1TZwUlwjhBIiK8VP" version="22.1.21" type="github">
   <diagram name="Page-1" id="wsTwDKJttdFrNlq-yoNL">
     <mxGraphModel dx="1018" dy="1773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,9 +24,6 @@
         </mxCell>
         <mxCell id="fOkP95LbUyY7o67YRdoy-39" value="&lt;a href=&quot;https://github.com/ch-robinson-internal/VaultConfiguration.Premise.Prod&quot;&gt;Vault repo&lt;/a&gt;" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" vertex="1" parent="1">
           <mxGeometry x="169.5" y="630" width="75" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="fOkP95LbUyY7o67YRdoy-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fOkP95LbUyY7o67YRdoy-39" target="fOkP95LbUyY7o67YRdoy-3">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fOkP95LbUyY7o67YRdoy-43" value="&lt;ol&gt;&lt;li&gt;Storage Account&lt;/li&gt;&lt;li&gt;Resource Group&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Premission&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Container&lt;/li&gt;&lt;/ol&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=left;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=12;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
           <mxGeometry x="827" y="100" width="180" height="110" as="geometry" />
@@ -109,6 +106,9 @@
           <mxGeometry x="0.045" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fOkP95LbUyY7o67YRdoy-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fOkP95LbUyY7o67YRdoy-39" target="fOkP95LbUyY7o67YRdoy-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
