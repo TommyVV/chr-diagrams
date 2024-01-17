@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T14:04:43.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yT_S0h6i9wuWDvhXkfOA" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T14:12:51.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gx5AQvSAvZUGHcnjb_ZU" version="22.1.21" type="github">
   <diagram name="Page-1" id="wsTwDKJttdFrNlq-yoNL">
     <mxGraphModel dx="698" dy="1583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fOkP95LbUyY7o67YRdoy-15" value="App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fOkP95LbUyY7o67YRdoy-15" value="GF App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="406.85" y="370" width="67.92" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="fOkP95LbUyY7o67YRdoy-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fOkP95LbUyY7o67YRdoy-16" target="fOkP95LbUyY7o67YRdoy-15">
@@ -68,26 +68,32 @@
         <mxCell id="fOkP95LbUyY7o67YRdoy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="fOkP95LbUyY7o67YRdoy-16" target="fOkP95LbUyY7o67YRdoy-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fOkP95LbUyY7o67YRdoy-19" value="Azure &quot;App&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fOkP95LbUyY7o67YRdoy-19" value="Azure App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="122.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fOkP95LbUyY7o67YRdoy-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fOkP95LbUyY7o67YRdoy-34" target="fOkP95LbUyY7o67YRdoy-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fOkP95LbUyY7o67YRdoy-34" value="Service account repo" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" vertex="1" parent="1">
+        <mxCell id="fOkP95LbUyY7o67YRdoy-34" value="&lt;a href=&quot;https://github.com/ch-robinson-internal/tf-az-d365-live&quot;&gt;Service account repo&lt;/a&gt;" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" vertex="1" parent="1">
           <mxGeometry x="580" y="115" width="75" height="75" as="geometry" />
         </mxCell>
         <mxCell id="fOkP95LbUyY7o67YRdoy-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fOkP95LbUyY7o67YRdoy-36" target="fOkP95LbUyY7o67YRdoy-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fOkP95LbUyY7o67YRdoy-36" value="Service principal repo" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" vertex="1" parent="1">
+        <mxCell id="fOkP95LbUyY7o67YRdoy-36" value="&lt;a href=&quot;https://github.com/ch-robinson-internal/tf-az-azure-active-directory-live&quot;&gt;Service principal repo&lt;/a&gt;" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" vertex="1" parent="1">
           <mxGeometry x="212.5" y="-80" width="75" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="fOkP95LbUyY7o67YRdoy-39" value="Vault repo" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" vertex="1" parent="1">
+        <mxCell id="fOkP95LbUyY7o67YRdoy-39" value="&lt;a href=&quot;https://github.com/ch-robinson-internal/VaultConfiguration.Premise.Prod&quot;&gt;Vault repo&lt;/a&gt;" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" vertex="1" parent="1">
           <mxGeometry x="169.5" y="630" width="75" height="75" as="geometry" />
         </mxCell>
         <mxCell id="fOkP95LbUyY7o67YRdoy-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fOkP95LbUyY7o67YRdoy-39" target="fOkP95LbUyY7o67YRdoy-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fOkP95LbUyY7o67YRdoy-43" value="1.Create Storage Account&lt;br style=&quot;font-size: 12px;&quot;&gt;2.Create Resource Group&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.Premission&lt;/span&gt;&lt;/div&gt;4.Container" style="strokeWidth=1;shadow=0;dashed=0;align=left;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=12;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
+          <mxGeometry x="700" y="122.5" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fOkP95LbUyY7o67YRdoy-44" value="create a azure app&lt;br style=&quot;font-size: 12px;&quot;&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=left;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=12;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-90" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
