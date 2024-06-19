@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T06:29:40.070Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="jZxvD0-s6gPaYKCVQYJa" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T06:36:18.463Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="mhZrvG97C0n_uJNjHFbw" version="24.3.1" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1185" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -165,7 +165,7 @@
         <mxCell id="EwxZ_xQYVL66pt0RI6ai-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.237;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF3333;" edge="1" parent="1" source="EwxZ_xQYVL66pt0RI6ai-96" target="EwxZ_xQYVL66pt0RI6ai-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EwxZ_xQYVL66pt0RI6ai-98" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Issue2:&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Dones&#39;t support concurrenct save commodity due to &#39;&lt;b&gt;get max item id&lt;/b&gt;&#39; desin&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="EwxZ_xQYVL66pt0RI6ai-98" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Issue2:&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 8px;&quot;&gt;Doesn&#39;t support concurrent save of commodities due to &#39;G&lt;b&gt;et max item ID&lt;/b&gt;&#39; design&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="871" y="376.5" width="130" height="47" as="geometry" />
         </mxCell>
         <mxCell id="EwxZ_xQYVL66pt0RI6ai-99" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="EwxZ_xQYVL66pt0RI6ai-95">
