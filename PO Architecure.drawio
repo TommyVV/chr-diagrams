@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T08:12:36.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="l5Idm4D8oPt07FwScn9E" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-08T08:14:15.277Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="vFaElRFoaTB1pHuMCWBu" version="24.6.4" type="github" pages="3">
   <diagram name="Page-1" id="l9X8TjzERissme8cilrj">
     <mxGraphModel dx="830" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="19VDyxM9A0CumnCQ6ZsO-35" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;PO Gateway&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="270" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="19VDyxM9A0CumnCQ6ZsO-38" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;etc.&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="19VDyxM9A0CumnCQ6ZsO-38" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Others(online)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="270" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="19VDyxM9A0CumnCQ6ZsO-40" value="SIA UI Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
