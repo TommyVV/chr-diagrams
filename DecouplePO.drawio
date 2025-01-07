@@ -10,10 +10,11 @@
         <mxCell id="1rp_JtK8VTmY53sCuVcj-60" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="-290" y="60" width="700" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="1rp_JtK8VTmY53sCuVcj-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1rp_JtK8VTmY53sCuVcj-2" target="1rp_JtK8VTmY53sCuVcj-10">
+        <mxCell id="1rp_JtK8VTmY53sCuVcj-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1rp_JtK8VTmY53sCuVcj-2" target="1rp_JtK8VTmY53sCuVcj-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-60" y="250" />
+              <mxPoint y="300" />
+              <mxPoint y="250" />
               <mxPoint x="250" y="250" />
               <mxPoint x="250" y="160" />
             </Array>
@@ -21,7 +22,7 @@
         </mxCell>
         <mxCell id="1rp_JtK8VTmY53sCuVcj-36" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Step1 Draw PO&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1rp_JtK8VTmY53sCuVcj-35">
           <mxGeometry x="0.0924" y="-2" relative="1" as="geometry">
-            <mxPoint y="-3" as="offset" />
+            <mxPoint x="-4" y="38" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1rp_JtK8VTmY53sCuVcj-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1rp_JtK8VTmY53sCuVcj-2" target="1rp_JtK8VTmY53sCuVcj-9">
@@ -30,6 +31,14 @@
         <mxCell id="1rp_JtK8VTmY53sCuVcj-119" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Step 3 Create PO Commodities(Include ink po to shipment)&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1rp_JtK8VTmY53sCuVcj-118">
           <mxGeometry x="-0.022" y="-2" relative="1" as="geometry">
             <mxPoint x="7" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1rp_JtK8VTmY53sCuVcj-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1rp_JtK8VTmY53sCuVcj-2" target="1rp_JtK8VTmY53sCuVcj-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1rp_JtK8VTmY53sCuVcj-123" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;step 4 cancel commodity&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1rp_JtK8VTmY53sCuVcj-121">
+          <mxGeometry x="-0.3143" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1rp_JtK8VTmY53sCuVcj-2" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;GF.OrderEntry.UI.API&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -115,7 +124,7 @@
         <mxCell id="1rp_JtK8VTmY53sCuVcj-38" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Cube UI&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-280" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1rp_JtK8VTmY53sCuVcj-43" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Commodity UI(GFS)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="1rp_JtK8VTmY53sCuVcj-43" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Commodity UI(GFS UI)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-280" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1rp_JtK8VTmY53sCuVcj-47" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Express DB&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
@@ -258,6 +267,12 @@
           <mxGeometry x="0.4094" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1rp_JtK8VTmY53sCuVcj-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1rp_JtK8VTmY53sCuVcj-120" target="1rp_JtK8VTmY53sCuVcj-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1rp_JtK8VTmY53sCuVcj-120" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Cancel Placeholder Commodity&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
