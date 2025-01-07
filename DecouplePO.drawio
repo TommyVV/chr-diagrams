@@ -225,7 +225,7 @@
         <mxCell id="1rp_JtK8VTmY53sCuVcj-114" value="PO.Gateway.Gf.Bookings.Api" style="swimlane;startSize=20;fontSize=10;" vertex="1" parent="1rp_JtK8VTmY53sCuVcj-67">
           <mxGeometry x="840" width="160" height="740" as="geometry" />
         </mxCell>
-        <mxCell id="1rp_JtK8VTmY53sCuVcj-80" value="Batch Create PO item" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1rp_JtK8VTmY53sCuVcj-114">
+        <mxCell id="1rp_JtK8VTmY53sCuVcj-80" value="Batch Create PO item" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1rp_JtK8VTmY53sCuVcj-114">
           <mxGeometry x="20" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1rp_JtK8VTmY53sCuVcj-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1rp_JtK8VTmY53sCuVcj-67" source="1rp_JtK8VTmY53sCuVcj-72" target="1rp_JtK8VTmY53sCuVcj-73">
